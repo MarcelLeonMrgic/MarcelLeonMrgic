@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel Leon Mrgic</h1>
-<h3 align="center">a Softwaredeveloper form Berlin</h3>
+<h3 align="center">a Softwaredeveloper from Berlin</h3>
 
 - 🔭 I’m currently working on **My Own Operating Sytem**
 
